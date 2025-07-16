@@ -4,6 +4,11 @@ This is a Bluetooth-controlled car with servo motor steering, operated by a gest
 <img width="4032" height="2268" alt="Bild_2025-07-16_132212688-min" src="https://github.com/user-attachments/assets/2f62facd-08a4-47d0-871f-6058e5390c70" />
 
 
+## Demo video
+
+[![Watch demonstration](https://img.youtube.com/vi/Ua1hedp0NUk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ua1hedp0NUk)
+
+
 ## Components and supplies
 
 1x ESP 32
